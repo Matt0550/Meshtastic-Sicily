@@ -1,0 +1,39 @@
+{
+    "points": [
+        {
+            "id": "!6c73dc04",
+            "name": "CT01",
+            "label": "CT01",
+            "lat": 37.5783424,
+            "lng": 15.0863872,
+            "status": "active",
+            "description": "CT01 - Catania",
+            "city": "Catania",
+            "frequency": "MEDIUM_FAST (EU_868)"
+        },
+        {
+            "id": "!6c72eda8",
+            "name": "MeshNISSA",
+            "label": "CL01",
+            "lat": 37.490743,
+            "lng": 14.056004,
+            "status": "soon",
+            "description": "CL01 - Nissoria",
+            "city": "Nissoria",
+            "frequency": "MEDIUM_FAST (EU_868)"
+
+        },
+        {
+            "id": "!6c744324",
+            "name": "AG01",
+            "label": "AG01",
+            "lat": 37.2506624,
+            "lng": 13.9722752,
+            "status": "active",
+            "description": "AG01 - Agrigento",
+            "city": "Agrigento",
+            "frequency": "MEDIUM_FAST (EU_868)"
+
+        }
+    ]
+}
