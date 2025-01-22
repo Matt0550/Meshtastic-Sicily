@@ -32,7 +32,7 @@ Meshtastic Sicily is a community of people who use Meshtastic in Sicily or who w
 ## Map
 
 Meshtastic Sicily has a map where you can see the position of the devices of the community members. You can access the map at the following link: 
-[Meshtastic Sicily Map](https://meshtastic-sicily.matt05.it/).
+[Meshtastic Sicily Map](https://meshtastic-sicily.matt05.it/map).
 
 The map is still in development and needs to be improved (like implementing APIs, adding more features, etc.).
 
