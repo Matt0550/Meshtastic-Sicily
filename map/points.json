@@ -49,6 +49,18 @@
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/polipeptide"
 
+        },
+        {
+            "id": "IT9JFW",
+            "name": "IT9JFW",
+            "label": "QTHc",
+            "lat":, 38.1109489,
+            "lng": 13.3515396,
+            "status": "active",
+            "description": "Palermo - Pizza Indipendenza, da un Radioamatore. Sia a 433mhz che 868mhz. Info su tg.",
+            "city": "Palermo",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/palinuro"
         }
     ]
 }
