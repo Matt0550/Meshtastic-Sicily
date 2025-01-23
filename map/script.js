@@ -63,7 +63,7 @@ function statusToDescription(status) {
 }
 
 // Fetch data from the local JSON file
-fetch('points.json')
+fetch('points.json?nocache=' + (new Date()).getTime())
     .then(response => response.json())
     .then(data => {
         // Add the markers from the data
