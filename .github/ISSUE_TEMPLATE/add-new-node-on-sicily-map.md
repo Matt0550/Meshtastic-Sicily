@@ -3,7 +3,7 @@ name: Add new node on Sicily Map
 about: Use this template to request your node be added to the map
 title: "[NEW NODE]"
 labels: new node
-assignees: ''
+assignees: Matt0550
 
 ---
 
