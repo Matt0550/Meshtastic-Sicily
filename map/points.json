@@ -9,7 +9,20 @@
             "status": "active",
             "description": "CT01 - Catania",
             "city": "Catania",
-            "frequency": "MEDIUM_FAST (EU_868)"
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/user18271782"
+        },
+        {
+            "id": "2956793272",
+            "name": "CT02",
+            "label": "CT02",
+            "lat": 37.574397,
+            "lng": 15.141321,
+            "status": "active",
+            "description": "Aci Catena. Mobile node. Position is not accurate.",
+            "city": "Catania",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/Gualtyx"
         },
         {
             "id": "!6c72eda8",
@@ -18,9 +31,10 @@
             "lat": 37.490743,
             "lng": 14.056004,
             "status": "soon",
-            "description": "CL01 - Nissoria",
-            "city": "Nissoria",
-            "frequency": "MEDIUM_FAST (EU_868)"
+            "description": "CL01 - Caltanissetta",
+            "city": "Caltanissetta",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/Non_sono_Matteo"
 
         },
         {
@@ -30,9 +44,10 @@
             "lat": 37.2506624,
             "lng": 13.9722752,
             "status": "active",
-            "description": "AG01 - Agrigento",
-            "city": "Agrigento",
-            "frequency": "MEDIUM_FAST (EU_868)"
+            "description": "Ravanusa - Agrigento",
+            "city": "Ravanusa",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/polipeptide"
 
         }
     ]
