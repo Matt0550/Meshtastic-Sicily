@@ -13,13 +13,37 @@
             "tg_link": "https://t.me/user18271782"
         },
         {
+            "id": "",
+            "name": "CTab",
+            "label": "CTab",
+            "lat": 37.5783424,
+            "lng": 15.0863872,
+            "status": "mobile_active",
+            "description": "CTab - Catania. Mobile node.",
+            "city": "Catania",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/user18271782"
+        },
+        {
+            "id": "!6c73dc04",
+            "name": "CTac",
+            "label": "CTac",
+            "lat": 37.5783424,
+            "lng": 15.0863872,
+            "status": "soon",
+            "description": "Catania, zona Aeroporto",
+            "city": "Catania",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/user18271782"
+        },
+        {
             "id": "2956793272",
             "name": "CTba",
             "label": "CTba",
             "lat": 37.574397,
             "lng": 15.141321,
-            "status": "soon",
-            "description": "Aci Catena.",
+            "status": "mobile_active",
+            "description": "Mobile node. Position is not accurate.",
             "city": "Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/Gualtyx"
@@ -42,8 +66,8 @@
             "label": "CTbc",
             "lat": 37.574397,
             "lng": 15.141321,
-            "status": "soon",
-            "description": "Aci Catena. Mobile node. Position is not accurate.",
+            "status": "active",
+            "description": "Aci Catena.",
             "city": "Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/Gualtyx"
