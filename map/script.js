@@ -149,12 +149,12 @@ fetch("points.json?nocache=" + new Date().getTime())
       var div = L.DomUtil.create("div", "info");
       div.innerHTML = `
     <h4><b>Meshtastic Sicily Map</b></h4>
-    <p>Map of the Meshtastic nodes in Sicily.</p>
     <p>${nodesStats.active + nodesStats.mobile_active} active nodes, ${
         nodesStats.soon
       } soon nodes. TOT: ${
         data.points.length
       } nodes.</p>
+    <p>Map of the Meshtastic nodes in Sicily.</p>
     <p>More info on <a href="https://github.com/Matt0550/Meshtastic-Sicily" target="_blank">GitHub</a>.</p>
     `;
       return div;
