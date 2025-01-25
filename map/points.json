@@ -40,7 +40,7 @@
             "id": "!b03d15b8",
             "name": "CTba",
             "label": "CTba",
-            "lat": 37.5647336
+            "lat": 37.5647336,
             "lng": 15.1255633,
             "status": "mobile_active",
             "description": "Mobile node. Position is not accurate.",
