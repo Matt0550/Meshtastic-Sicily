@@ -25,7 +25,7 @@
             "tg_link": "https://t.me/user18271782"
         },
         {
-            "id": "!6c73dc04",
+            "id": "",
             "name": "CTac",
             "label": "CTac",
             "lat": 37.4660726,
@@ -37,11 +37,11 @@
             "tg_link": "https://t.me/user18271782"
         },
         {
-            "id": "2956793272",
+            "id": "!b03d15b8",
             "name": "CTba",
             "label": "CTba",
-            "lat": 37.574397,
-            "lng": 15.141321,
+            "lat": 37.5647336
+            "lng": 15.1255633,
             "status": "mobile_active",
             "description": "Mobile node. Position is not accurate.",
             "city": "Catania",
@@ -49,11 +49,11 @@
             "tg_link": "https://t.me/Gualtyx"
         },
         {
-            "id": "",
+            "id": "!433cfc98",
             "name": "CTbb",
             "label": "CTbb",
-            "lat": 37.574397,
-            "lng": 15.141321,
+            "lat": 37.5647336,
+            "lng": 15.1255633,
             "status": "mobile_active",
             "description": "Aci Catena. Mobile node. Position is not accurate.",
             "city": "Catania",
@@ -61,11 +61,11 @@
             "tg_link": "https://t.me/Gualtyx"
         },
         {
-            "id": "",
+            "id": "!433ce404",
             "name": "CTbc",
             "label": "CTbc",
-            "lat": 37.574397,
-            "lng": 15.141321,
+            "lat": 37.5647336,
+            "lng": 15.1255633,
             "status": "active",
             "description": "Aci Catena.",
             "city": "Catania",
