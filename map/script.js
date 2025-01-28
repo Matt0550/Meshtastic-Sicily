@@ -124,6 +124,7 @@ fetch("points.json?nocache=" + new Date().getTime())
       // Add popup to marker
       marker.bindPopup(`
             <b>${point.name} (${point.label})</b><br>
+            ${point.city}<br>
             ${point.description}<br><br>
             Status: ${statusToDescription(point.status)}<br>
             
