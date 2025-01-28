@@ -56,7 +56,7 @@
             "lng": 15.1255633,
             "status": "mobile_active",
             "description": "Aci Catena. Mobile node. Position is not accurate.",
-            "city": "Catania",
+            "city": "Aci Catena - Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/Gualtyx"
         },
@@ -68,7 +68,7 @@
             "lng": 15.1255633,
             "status": "active",
             "description": "Aci Catena.",
-            "city": "Catania",
+            "city": "Aci Catena - Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/Gualtyx"
         },
@@ -80,7 +80,7 @@
             "lng": 14.945797,
             "status": "active",
             "description": "Vicino ad Etnapolis",
-            "city": "Catania",
+            "city": "Paternò - Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/DukoneDev"
         },
@@ -92,19 +92,19 @@
             "lng": 14.945797,
             "status": "mobile_active",
             "description": "Mobile node. Position is not accurate.",
-            "city": "Catania",
+            "city": "Paternò - Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/DukoneDev"
         },
          {
-            "id": "!",
-            "name": "DukoneMobile2",
+            "id": "!6c741e30",
+            "name": "CTcc",
             "label": "CTcc",
             "lat": 37.560451,
             "lng": 14.945797,
             "status": "mobile_active",
             "description": "Mobile node. Position is not accurate.",
-            "city": "Catania",
+            "city": "Paternò - Catania",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/DukoneDev"
         },
@@ -152,7 +152,7 @@
             "lng": 13.9722752,
             "status": "soon",
             "description": "Ravanusa - Agrigento",
-            "city": "Ravanusa",
+            "city": "Ravanusa - Agrigento",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/polipeptide"
         },
