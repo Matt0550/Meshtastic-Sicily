@@ -96,6 +96,18 @@
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/DukoneDev"
         },
+         {
+            "id": "!",
+            "name": "DukoneMobile2",
+            "label": "CTcc",
+            "lat": 37.560451,
+            "lng": 14.945797,
+            "status": "mobile_active",
+            "description": "Mobile node. Position is not accurate.",
+            "city": "Catania",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/DukoneDev"
+        },
         {
             "id": "!6c72eda8",
             "name": "MeshNISSA, ex CL01",
