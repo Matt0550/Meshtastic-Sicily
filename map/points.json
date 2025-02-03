@@ -133,12 +133,12 @@
             "tg_link": "https://t.me/Non_sono_Matteo"
         },
         {
-            "id": "",
+            "id": "!b03defdc",
             "name": "MeshNISSA2",
             "label": "CLab",
             "lat": 37.490743,
             "lng": 14.056004,
-            "status": "soon",
+            "status": "mobile_active",
             "description": "CLab - Caltanissetta",
             "city": "Caltanissetta",
             "frequency": "MEDIUM_FAST (EU_868)",
