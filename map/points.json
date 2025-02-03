@@ -109,6 +109,18 @@
             "tg_link": "https://t.me/DukoneDev"
         },
         {
+            "id": "!b03d7b04",
+            "name": "CTcd",
+            "label": "CTcd",
+            "lat": 37.560451,
+            "lng": 14.945797,
+            "status": "mobile_active",
+            "description": "Mobile node. Position is not accurate.",
+            "city": "Paternò - Catania",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/DukoneDev"
+        },
+        {
             "id": "!6c72eda8",
             "name": "MeshNISSA, ex CL01",
             "label": "CLaa",
