@@ -179,6 +179,18 @@
             "city": "Palermo",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/palinuro"
+        },
+        {
+            "id": "!b03c88a0",
+            "name": "Casa-Anto",
+            "label": "ENaa",
+            "lat": 37.40,
+            "lng": 13.35,
+            "status": "active",
+            "description": "Piazza Armerina - Enna",
+            "city": "Piazza Armerina",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/antosicili"
         }
     ]
 }
