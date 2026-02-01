@@ -191,6 +191,18 @@
             "city": "Piazza Armerina",
             "frequency": "MEDIUM_FAST (EU_868)",
             "tg_link": "https://t.me/antosicili"
+        },
+        {
+            "id": "!b03dc034",
+            "name": "CasaDavide - CDav",
+            "label": "ENba",
+            "lat": 37.37,
+            "lng": 14.38,
+            "status": "active",
+            "description": "Piazza Armerina - Enna",
+            "city": "Piazza Armerina",
+            "frequency": "MEDIUM_FAST (EU_868)",
+            "tg_link": "https://t.me/antosicili"
         }
     ]
 }
